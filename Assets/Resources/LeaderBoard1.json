@@ -1,0 +1,12 @@
+{
+  "Items": [
+    {
+      "Name": "testname",
+      "Score": "testscore"
+    },
+    {
+      "Name": "testname2",
+      "Score": "testscore2"
+    }
+  ]
+}
